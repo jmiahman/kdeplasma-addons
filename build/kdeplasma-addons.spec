@@ -1603,6 +1603,11 @@ rm -f %{buildroot}%{_kde4_libdir}/lib{plasma*,rtm}.so
 rm -rf %{buildroot}
 
 %changelog
+* Thu Oct 17 2013 JMiahMan <JMiahMan at gmail dot com> - 4.11.2-1
+- Import into my test korora repo
+- Update to 4.11.2
+- Added missing packages and remove obsolete packages from 4.9.1+
+
 * Thu Sep 06 2012  BuildBot < BUILDBOT@synergy-linux.com> 4.9.1-1
 - Update to version 4.9.1
 
